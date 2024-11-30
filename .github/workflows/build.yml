@@ -34,7 +34,7 @@ jobs:
 
       with:
 
-        submodules: &#39;recursive&#39;
+        submodules: 'recursive'
 
     - name: ccache
 
